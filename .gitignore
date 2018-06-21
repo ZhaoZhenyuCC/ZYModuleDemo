@@ -61,3 +61,6 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+*.xcworkspacedata
+ModuleDemo/Pods
+ModuleDemo/ModuleDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata
